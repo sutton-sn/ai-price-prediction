@@ -24,6 +24,8 @@ After training the model, we evaluated its performance using the testing data an
 ## Conclusions
 Our LSTM model shows the ability to capture general trends in the price of Bitcoin, but may struggle to accurately predict sharp movements and extreme market fluctuations. It is important to note that the cryptocurrency market is highly volatile and subject to multiple factors that may influence prices. Additional techniques and more advanced models could be explored to improve prediction accuracy in future work.
 
+---
+
 ![Bitcoin Price Prediction](btc-graphic.png)
 
 ---
