@@ -28,4 +28,4 @@ Our LSTM model shows the ability to capture general trends in the price of Bitco
 
 ---
 
-To reproduce the results and run the model, please refer to the code provided in the repository. Make sure to install the necessary dependencies listed in the requirements.txt file.
+To reproduce the results and run the model, please refer to the code provided in the repository. Make sure to install the necessary dependencies.
